@@ -4,10 +4,10 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:\\Qt\\6.8.0\\mingw_64\\include",
-                "C:\\Qt\\6.8.0\\mingw_64\\include\\QtWidgets",
-                "C:\\Qt\\6.8.0\\mingw_64\\include\\QtCore",
-                "C:\\Qt\\6.8.0\\mingw_64\\include\\QtGui",
+                "C:\\Qt\\6.8.0\\msvc2022_64\\include",
+                "C:\\Qt\\6.8.0\\msvc2022_64\\include\\QtWidgets",
+                "C:\\Qt\\6.8.0\\msvc2022_64\\include\\QtCore",
+                "C:\\Qt\\6.8.0\\msvc2022_64\\include\\QtGui",
                 "C:\\opencv\\build\\include\\opencv2",
                 "C:\\opencv\\build\\include"
 
